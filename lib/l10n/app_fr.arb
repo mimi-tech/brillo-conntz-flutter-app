@@ -1,0 +1,97 @@
+{
+  "alreadyHaveAccount": "Vous avez déjà un compte? Connectez-vous ci-dessous",
+
+  "appName": "BrilloConntz",
+
+  "helloWorld": "Bonjour le monde",
+
+  "loginText": "Connexion",
+
+  "welcomeTitle": "Envoyer\nmessage\nfacile",
+
+  "welcomeDesc": "Envoyez votre message facilement et très bien personnalisé\nà un tarif moins cher\nà n'importe quelle partie du monde",
+
+  "signupText": "Inscrivez-vous",
+
+  "appbarRegText": "Inscription",
+
+  "fullName": "Prénom",
+
+  "fullNameErrorText": "Entrez votre prénom s'il vous plait",
+
+  "phoneErrorText": "Veuillez entrer votre numéro de téléphone correctement",
+
+  "phoneText": "Veuillez vous assurer que ce numéro de téléphone est correct car il serait validé",
+
+  "phoneText2": "Veuillez vous assurer que ce numéro de téléphone n'a pas été utilisé pour créer un compte chez nous",
+
+  "phoneNumber": "Numéro de téléphone",
+
+  "phoneNumberCodeSent": "Un code a été envoyé à",
+
+  "phoneNumberCodeSent2": "Veuillez entrer le code ici",
+
+  "done": "Fait",
+
+  "cancel": "Annuler",
+
+  "validate": "Valider",
+
+  "validateEmailTitle": "E-mail de validation",
+
+  "emailSubtitle": "Veuillez vous assurer que cette adresse e-mail est correcte car elle serait validée",
+
+  "emailSubtitle2": "Veuillez vous assurer que cette adresse e-mail n'a pas été utilisée pour créer un compte chez nous",
+
+  "emailText": "Entrer l'adresse e-mail",
+
+  "validateEmailTitle2": "Validation de l'adresse e-mail",
+
+  "passwordText": "Entrer le mot de passe",
+
+  "submitText": "Soumettre",
+
+  "loginText2": "Veuillez vous connecter",
+
+  "create": "Créer",
+
+  "forgotPassword": "Mot de passe oublié?",
+
+  "confirmPassword": "Confirmez le mot de passe",
+
+  "regResponse": "Inscription échouée",
+
+  "loginSuccess": "Connexion réussie",
+
+  "loginNotSuccess": "La connexion n'a pas réussi",
+
+  "regSuccess": "inscription réussi",
+
+  "emailCodeSentText": "Validation du code e-mail SMS en masse",
+
+  "successful": "À succès",
+
+  "forgotPasswordText": "Mot de passe oublié",
+
+  "loading": "Chargement...",
+
+  "errorText": "Désolé, une erreur s'est produite",
+
+  "errorText2": "Désolé, nous n'avons pas pu résoudre la carte",
+
+  "loginHintText": "Connectez-vous avec e-mail ou numéro de téléphone",
+
+  "noAccountText1": "Je n'ai pas de compte",
+
+  "lastNameText": "Entrez votre nom de famille",
+
+  "usernameText": "Entrez votre nom d'utilisateur",
+
+  "interestText": "Sélectionnez votre intérêt",
+
+  "newEmailText": "Saisissez votre nouvelle adresse e-mail",
+
+  "validateTitle": "Vérification de l'inscription"
+
+
+}

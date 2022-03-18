@@ -1,0 +1,215 @@
+{
+     "alreadyHaveAccount": "Already have an account? Login below",
+     "@alreadyHaveAccount": {
+         "description": "Informative text if user already have an account"
+     },
+
+     "appName": "BrilloConntz",
+     "@appName": {
+        "description": "BrilloConntz"
+     },
+
+     "helloWorld": "Hello World!",
+     "@helloWorld": {
+        "description": "The conventional newborn programmer greeting"
+     },
+
+
+     "loginText": "Login",
+     "@loginText": {
+        "description": "Login"
+  },
+
+     "signupText": "Signup",
+     "@signupText": {
+        "description": "Signup"
+  },
+
+     "appbarRegText": "Registration",
+     "@appbarRegText": {
+        "description": "Registration"
+  },
+
+     "fullName": "First name",
+     "@fullName": {
+        "description": "First name"
+  },
+
+     "fullNameErrorText": "Please enter your first name",
+     "@fullNameErrorText": {
+        "description": "Please enter your first name"
+  },
+
+     "phoneErrorText": "Please enter your phone number correctly",
+     "@phoneErrorText": {
+        "description": "Please enter your phone number correctly"
+  },
+
+     "phoneText": "Please make sure this phone number is correct because it would be validated.",
+     "@phoneText": {
+        "description": "Please make sure this phone number is correct because it would be validated"
+  },
+
+  "phoneText2": "Please make sure this phone number have not been used to create an account with us",
+  "@phoneText2": {
+    "description": "Please make sure this phone number have not been used to create an account with us"
+  },
+
+     "phoneNumber": "Phone Number",
+     "@phoneNumber": {
+        "description": "Phone Number"
+  },
+
+     "phoneNumberCodeSent": "A code has been sent to",
+     "@phoneNumberCodeSent": {
+        "description": "A code has been sent to"
+  },
+
+     "phoneNumberCodeSent2": "Please enter the code here",
+     "@phoneNumberCodeSent2": {
+        "description": "Please enter the code here"
+  },
+
+     "done": "Done",
+     "@done": {
+        "description": "Done"
+  },
+
+     "cancel": "Cancel",
+     "@cancel": {
+     "description": "Cancel"
+  },
+
+     "validate": "Validate",
+     "@validate": {
+        "description": "Validate"
+  },
+
+     "validateTitle": "Registration verification",
+     "@validateTitle": {
+        "description": "Registration verification"
+  },
+
+     "validateEmailTitle": "Email validation",
+     "@validateEmailTitle": {
+        "description": "Email validation"
+  },
+
+     "emailSubtitle": "Please make sure this email address is correct because it would be validated",
+     "@emailSubtitle": {
+        "description": "Please make sure this email address is correct because it would be validated"
+  },
+
+    "emailSubtitle2": "Please make sure this email address have not been used to create an account with us",
+    "@emailSubtitle2": {
+       "description": "Please make sure this email address have not been used to create an account with us"
+  },
+
+     "emailText": "Enter email address",
+     "@emailText": {
+        "description": "Enter email address"
+  },
+
+
+
+     "validateEmailTitle2": "Email Address validation",
+     "@validateEmailTitle2": {
+        "description": "Email Address validation"
+  },
+
+     "passwordText": "Enter password",
+     "@passwordText": {
+        "description": "Enter password"
+  },
+
+     "submitText": "Submit",
+     "@submitText": {
+        "description": "Submit"
+  },
+
+     "loginText2": "Please login",
+     "@loginText2": {
+        "description": "Please login"
+  },
+
+     "create": "Create",
+     "@create": {
+        "description": "create"
+  },
+
+     "forgotPassword": "Forgot password?",
+     "@forgotPassword": {
+        "description": "forgot password"
+  },
+
+
+
+     "confirmPassword": "Confirm password",
+     "@confirmPassword": {
+        "description": "Confirm password"
+  },
+
+     "regResponse": "Registration Not successful",
+     "@regResponse": {
+        "description": "Registration Not successful"
+  },
+
+
+
+    "successful": "Successful",
+    "@successful": {
+       "description": "Successful"
+  },
+
+    "forgotPasswordText": "Forgot password",
+    "@forgotPasswordText": {
+       "description": "Forgot password"
+  },
+
+    "loading": "Loading...",
+    "@loading": {
+       "description": "Loading"
+  },
+
+    "errorText": "Sorry an error occurred",
+    "@errorText": {
+       "description": "Sorry an error occurred"
+  },
+
+
+
+  "loginHintText": "Login with email or phone number",
+  "@loginHintText": {
+    "description": "Login with email or phone number"
+  },
+
+  "noAccountText1": "Don't have an account",
+  "@noAccountText1": {
+    "description": "Don't have an account"
+  },
+
+  "noAccountText2": "Signup here",
+  "@noAccountText2": {
+    "description": "Signup here"
+  },
+
+  "lastNameText": "Enter your last name",
+  "@lastNameText": {
+    "description": "Enter your last name"
+  },
+
+  "usernameText": "Enter your user name",
+  "@usernameText": {
+    "description": "Enter your user name"
+  },
+
+  "interestText": "Select your interest",
+  "@interestText": {
+    "description": "Select your interest"
+  },
+
+  "newEmailText": "Enter your new email address",
+  "@newEmailText": {
+    "description": "Enter your new email address"
+  }
+}
